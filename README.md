@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Sunil Kumar Madikanti! I'm a Software Engineer at Comcast with interest in ML/AI. 
+My main areas for now are Computer Vision, Autonomous Cars & Robotics.
+
 <!--
 **smadikanti/smadikanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
